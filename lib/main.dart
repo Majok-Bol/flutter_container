@@ -27,9 +27,9 @@ class MyApp extends StatelessWidget {
 
             borderRadius: BorderRadius.circular(10),
           ),
-          // alignment: Alignment.center,
+          alignment: Alignment.center,
           child: Text(
-            'Welcome to Flutter framework',
+            'Welcome to Flutter framework tutorial',
             style: TextStyle(color: Colors.black, fontSize: 20),
             textAlign: TextAlign.center,
           ),
